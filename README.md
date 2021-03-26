@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faizan
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning STUFFS
+- 🌱 I’m currently learning WEB DEVELOPEMENT.
 - 📫 How to reach me faizananwar344@gmail.com
 
 <!---
